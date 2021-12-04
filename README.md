@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there, I'm Chocorean 👋
 
-<!--
-**Chocorean/Chocorean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- Half French 🇫🇷 - Half Italian 🇮🇹
+- IT engineer from Téléconcy Nancy 🏫
+- Working at NIST 💻
+- Heavily carried by <a href="https://github.com/mcdostone">@mcdostone</a> in common projects 🤷‍♂️
+- Famous for my Choconews ⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Things I love
+
+- 🎮 Favorite games: <a href="https://www.pokemon.com/">Pokemon</a>, <a href="https://www.minecraft.net/">Minecraft</a>, and <a href="https://www.dofus.com/">Dofus</a>
+- 🍣 Favorite dishes: Lasagna, Sashimis, Truffade
+- 🌴 Favorite holydays: Swim in the ocean, have a sunbath, and enjoy a strawberry ice cream at 4pm every day (yeah, it's very specific)
+
+## Stuff I currently to work on
+
+- 🖨️ My <a href="https://print.chocorp.net">3D printer</a>
+- 🤖 My Raspberry PIs (2 PI 4, 2 Zero W, and 1 incoming Zero 2 W !)
+- 💎 My <a href="https://chocorp.net">website</a>
+- 🧗‍♂️ My climbing skills
+
+## Thanks for stopping by! 👋 La bise.
