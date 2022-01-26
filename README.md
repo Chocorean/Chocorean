@@ -3,7 +3,7 @@
 ## About me
 
 - Half French 🇫🇷 - Half Sardinian 🇮🇹
-- IT engineer from Téléconcy Nancy 🏫
+- IT engineer from Télécom Nancy 🏫
 - Working at NIST 💻
 - Heavily carried by <a href="https://github.com/mcdostone">@mcdostone</a> in common projects 🤷‍♂️
 - Famous for my Choconews ⚡
@@ -16,8 +16,8 @@
 
 ## Stuff I currently to work on
 
-- 🖨️ My <a href="https://print.chocorp.net">3D printer</a>
-- 🤖 My Raspberry PIs (2 PI 4, 2 Zero W, and 1 incoming Zero 2 W !)
+- 🖨️ My <a href="https://print.chocorp.net">Creality Ender3 3D printer</a>
+- 🤖 My Raspberry PIs (2 PI 4, 2 Zero W, and maybe 1 incoming Zero 2 W !)
 - 💎 My <a href="https://chocorp.net">website</a>
 - 🧗‍♂️ My climbing skills
 
