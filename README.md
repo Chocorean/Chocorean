@@ -2,7 +2,7 @@
 
 ## About me
 
-- Half French 🇫🇷 - Half Italian 🇮🇹
+- Half French 🇫🇷 - Half Sardinian 🇮🇹
 - IT engineer from Téléconcy Nancy 🏫
 - Working at NIST 💻
 - Heavily carried by <a href="https://github.com/mcdostone">@mcdostone</a> in common projects 🤷‍♂️
